@@ -3,9 +3,6 @@
 ## 📌 Project Overview
 This project analyzes consumer survey data collected by a beverage company named **Codex** to understand customer opinions about a newly launched drink.
 
-The dataset was originally collected via Google Forms and sourced from an open-source platform.  
-This project was created strictly for **learning and portfolio purposes**.
-
 ---
 
 ## 🎯 Objectives
